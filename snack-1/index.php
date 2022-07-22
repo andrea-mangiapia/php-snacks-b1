@@ -61,8 +61,7 @@ $SerieA = [
 
         <?php } ?>
     </ul>
-        
-    
+         
 </body>
 </html>
 
